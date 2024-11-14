@@ -11,24 +11,25 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@vitejs/plugin-vue": "^2.3.1",
-    "vue": "^3.2.25",
-    "typescript": "^4.5.4",
-    "vite": "^2.9.0",
+    "@vitejs/plugin-vue": "^2.3.4",
+    "moment": "^2.30.1",
+    "typescript": "^4.9.5",
+    "vite": "^2.9.18",
+    "vue": "^3.5.12",
     "vue-tsc": "^0.29.8"
   },
   "devDependencies": {
     "@aegis.inc/eslint-config-aegis": "latest",
-    "@commitlint/cli": "^17.0.0",
-    "@commitlint/config-conventional": "^17.0.0",
-    "@typescript-eslint/eslint-plugin": "^5.26.0",
-    "@typescript-eslint/parser": "^5.26.0",
-    "eslint": "^8.16.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-vue": "^8.6.0",
+    "@commitlint/cli": "^17.8.1",
+    "@commitlint/config-conventional": "^17.8.1",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^8.10.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^8.7.1",
     "husky": "^7.0.4",
-    "lint-staged": "^12.4.2",
+    "lint-staged": "^12.5.0",
     "prettier": "2.7.0"
   },
   "lint-staged": {
